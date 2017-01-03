@@ -1,0 +1,4 @@
+<tr class="definition-item">
+    <td>{{name}}</td>
+    <td>{{{title}}}</td>
+</tr>
